@@ -118,7 +118,7 @@ Just open the file in any modern browser.
 
 ## 👨‍💻 Author
 
-**Manoj**  
+**Pratiksha**  
 Computer Engineering Student  
 IoT | Web | AI Projects  
 
